@@ -10,5 +10,5 @@ challenge/helltriangle/src/main/java/com/b2w/helltriangle/service/TriangleServic
 challenge/helltriangle/src/main/java/com/b2w/helltriangle/test/TriangleServiceTest.java: possui os testes unitários para a classe TriangleService.java
 
 # Instruções
-Execute o comando mvn test para executar os testes unitários
+Execute o comando mvn test para iniciar os testes unitários
 
