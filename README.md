@@ -19,5 +19,5 @@ Dentro do diretório "helltriangle" (onde se encontra o arquivo pom.xml), execut
 
   - Execução dos testes: mvn clean test
   - Criar atefato (jar): mvn clean package 
-  - Executar teste e cirar atefado: mvn clean install
+  - Executar teste e criar atefado: mvn clean install
 
